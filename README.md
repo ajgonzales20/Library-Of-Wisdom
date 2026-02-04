@@ -26,11 +26,19 @@ Welcome to the **Library of Wisdom**, a collaborative Android app built with **K
 | Cantalejo, Sexiona, Fulgencio | The Coder | Create the `MainActivity.kt` with a centered button logging “Welcome to the library” |
 | Fernandez, Baje, Dado, Sumayao | The Editor | Edit the `README.md` to add a “Project Mission Statement” |
 
-
 ---
 
 ## Objective
 
 Collaboratively build a *single Android app digital encyclopedia* while managing feature branches, pull requests, and merge conflicts.
+
+---
+
+## Assessment Checklist
+
+- **Branching:** Did contributors use feature branches?  
+- **Commit Messages:** Are commit messages descriptive (e.g., “Add MainActivity.kt”)?  
+- **PR Etiquette:** Are PR descriptions clear and informative?  
+- **Conflict Resolution:** Are merge conflicts resolved properly without deleting teammates’ work?  
 
 ---
