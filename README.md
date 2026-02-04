@@ -59,3 +59,13 @@ Collaboratively build a *single Android app digital encyclopedia* while managing
 - *Conflict Resolution:* Are merge conflicts resolved properly without deleting teammates’ work?  
 
 ---
+
+## Usage
+
+To run the app locally on Android:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ajgonzales20/Library-Of-Wisdom.git
+
+---
