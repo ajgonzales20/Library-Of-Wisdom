@@ -69,3 +69,6 @@ To run the app locally on Android:
    git clone https://github.com/ajgonzales20/Library-Of-Wisdom.git
 
 ---
+
+## Logcat Output
+D/LibraryLog: Welcome to the library
