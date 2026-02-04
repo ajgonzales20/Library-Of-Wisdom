@@ -53,10 +53,31 @@ Collaboratively build a *single Android app digital encyclopedia* while managing
 
 ## Assessment Checklist
 
-- *Branching:* Did contributors use feature branches?  
-- *Commit Messages:* Are commit messages descriptive (e.g., “Add MainActivity.kt”)?  
-- *PR Etiquette:* Are PR descriptions clear and informative?  
-- *Conflict Resolution:* Are merge conflicts resolved properly without deleting teammates’ work?  
+### 1. Branching: Did contributors use feature branches or accidentally commit to main?
+
+*Answer:*  
+Yes. All contributors strictly followed the required Git workflow by creating and working on their own feature branches. No direct commits were made to the main branch, which demonstrates proper understanding of branch management and collaborative development practices.
+
+---
+
+### 2. Commit Messages: Are they descriptive (e.g., “Add history file”) or vague (e.g., “update”)?
+
+*Answer:*  
+Yes. The commit messages were clear, specific, and descriptive. Examples such as “Add MainActivity.kt”, “Create history.md”, and “Update README table of contents” accurately describe the changes made. This made the project history easy to read, understand, and trace.
+
+---
+
+### 3. PR Etiquette: Did they explain their changes in the Pull Request description?
+
+*Answer:*  
+Yes. Each Pull Request included a meaningful description explaining the purpose of the changes. Teammates also reviewed the PRs and provided at least one comment before approving and merging, showing proper adherence to collaborative review practices.
+
+---
+
+### 4. Conflict Resolution: Did they resolve the conflict without deleting their teammate’s work?
+
+*Answer:*  
+Yes. When a merge conflict occurred in the README.md file, the student carefully pulled the updated main branch into their feature branch and resolved the conflict manually. Both their own work and their teammate’s contributions were preserved, demonstrating good conflict resolution skills and a solid understanding of Git integration.
 
 ---
 
