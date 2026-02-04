@@ -34,3 +34,11 @@ Collaboratively build a *single Android app digital encyclopedia* while managing
 
 ---
 
+## Assessment Checklist
+
+- **Branching:** Did contributors use feature branches?  
+- **Commit Messages:** Are commit messages descriptive (e.g., “Add MainActivity.kt”)?  
+- **PR Etiquette:** Are PR descriptions clear and informative?  
+- **Conflict Resolution:** Are merge conflicts resolved properly without deleting teammates’ work?  
+
+---
