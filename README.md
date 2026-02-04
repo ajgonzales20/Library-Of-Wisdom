@@ -34,6 +34,14 @@ Collaboratively build a *single Android app digital encyclopedia* while managing
 
 ---
 
+## Project Setup
+
+1. *Lead:* One student creates the GitHub repository and adds collaborators.  
+2. *Scaffold:* Lead pushes the initial README.md and a data/ folder containing a blank entries.json.  
+3. *Rules:* No one is allowed to push directly to main. All changes must go through Pull Requests (PRs).  
+
+---
+
 ## Git Workflow
 
 1. *Branches:* Work on separate feature branches; avoid committing directly to main.  
