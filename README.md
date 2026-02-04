@@ -7,7 +7,7 @@ Welcome to the **Library of Wisdom**, a collaborative Android app built with **K
 ## Table of Contents
 
 1. [Member Roles](#member-roles)  
-2. [Objective](#Objective)  
+2. [Objective](#objective)  
 3. [Project Setup](#project-setup)  
 4. [Git Workflow](#git-workflow)  
 5. [Assessment Checklist](#assessment-checklist)  
@@ -26,6 +26,11 @@ Welcome to the **Library of Wisdom**, a collaborative Android app built with **K
 | Cantalejo, Sexiona, Fulgencio | The Coder | Create the `MainActivity.kt` with a centered button logging “Welcome to the library” |
 | Fernandez, Baje, Dado, Sumayao | The Editor | Edit the `README.md` to add a “Project Mission Statement” |
 
-##Objective
+
+---
+
+## Objective
 
 Collaboratively build a *single Android app digital encyclopedia* while managing feature branches, pull requests, and merge conflicts.
+
+---
